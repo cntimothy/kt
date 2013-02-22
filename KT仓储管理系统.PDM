@@ -1,0 +1,440 @@
+[Root]
+Most Recent Package=标准安装软件包 3
+
+
+[Package|标准安装软件包 1|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=E:\毕设\kt\新建文件夹
+
+[Package|标准安装软件包 1|Configure DAO ISAMs]
+Applicable=No
+
+[Package|标准安装软件包 1|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|标准安装软件包 1|Files Found]
+
+[Package|标准安装软件包 1|Files Released]
+
+[Package|标准安装软件包 1|Missing Dependency Information]
+C:\WINDOWS\system32\MSSTDFMT.DLL=
+
+[Package|标准安装软件包 1|Out-of-Date Dependency Information]
+
+[Package|标准安装软件包 1|Files Added]
+e:\毕设\kt\db\kt.mdb=
+
+[Package|标准安装软件包 1|Files Removed]
+
+[Package|标准安装软件包 1|Files In Project]
+E:\毕设\kt\KT仓储管理系统.exe=Yes
+C:\WINDOWS\system32\msvbvm60.dll=Yes
+C:\WINDOWS\system32\oleaut32.dll=Yes
+C:\WINDOWS\system32\olepro32.dll=Yes
+C:\WINDOWS\system32\asycfilt.dll=Yes
+C:\WINDOWS\system32\stdole2.tlb=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\WINDOWS\system32\VB6CHS.DLL=Yes
+C:\WINDOWS\system32\MSADODC.OCX=Yes
+C:\WINDOWS\system32\MSSTDFMT.DLL=Yes
+C:\WINDOWS\system32\ADODCCHS.DLL=Yes
+C:\WINDOWS\system32\MSDATGRD.OCX=Yes
+C:\WINDOWS\system32\DATGDCHS.DLL=Yes
+C:\WINDOWS\system32\MSDATLST.OCX=Yes
+C:\WINDOWS\system32\DATLSCHS.DLL=Yes
+C:\WINDOWS\system32\MSBIND.DLL=Yes
+C:\Program Files\Common Files\Microsoft Shared\DAO\dao360.dll=Yes
+C:\WINDOWS\system32\msjet40.dll=Yes
+C:\WINDOWS\system32\msjter40.dll=Yes
+C:\WINDOWS\system32\msjint40.dll=Yes
+C:\WINDOWS\system32\vbajet32.dll=Yes
+C:\WINDOWS\system32\expsrv.dll=Yes
+C:\WINDOWS\system32\mswstr10.dll=Yes
+C:\WINDOWS\system32\mswdat10.dll=Yes
+C:\WINDOWS\system32\msrd2x40.dll=Yes
+C:\WINDOWS\system32\msrd3x40.dll=Yes
+C:\WINDOWS\system32\msrepl40.dll=Yes
+C:\WINDOWS\system32\msjtes40.dll=Yes
+C:\WINDOWS\system32\VB5DB.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINDOWS\system32\VB6STKIT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+E:\毕设\kt\db\kt.mdb=Yes
+
+[Package|标准安装软件包 1|Configure Registry Files]
+Applicable=No
+
+[Package|标准安装软件包 1|Configure Remote Servers]
+Applicable=No
+
+[Package|标准安装软件包 1|Install Locations]
+E:\毕设\kt\KT仓储管理系统.exe=$(AppPath)
+C:\WINDOWS\system32\msvbvm60.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\oleaut32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\olepro32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\asycfilt.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\stdole2.tlb=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\VB6CHS.DLL=$(WinSysPath)
+C:\WINDOWS\system32\MSADODC.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSSTDFMT.DLL=$(WinSysPath)
+C:\WINDOWS\system32\ADODCCHS.DLL=$(WinSysPath)
+C:\WINDOWS\system32\MSDATGRD.OCX=$(WinSysPath)
+C:\WINDOWS\system32\DATGDCHS.DLL=$(WinSysPath)
+C:\WINDOWS\system32\MSDATLST.OCX=$(WinSysPath)
+C:\WINDOWS\system32\DATLSCHS.DLL=$(WinSysPath)
+C:\WINDOWS\system32\MSBIND.DLL=$(WinSysPath)
+C:\Program Files\Common Files\Microsoft Shared\DAO\dao360.dll=$(MSDAOPath)
+C:\WINDOWS\system32\msjet40.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\msjter40.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\msjint40.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\vbajet32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\expsrv.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\mswstr10.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\mswdat10.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\msrd2x40.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\msrd3x40.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\msrepl40.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\msjtes40.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\VB5DB.DLL=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINDOWS\system32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+E:\毕设\kt\db\kt.mdb=$(AppPath)\db
+
+[Package|标准安装软件包 1|Configure Shared Files]
+Applicable=Yes
+E:\毕设\kt\KT仓储管理系统.exe=No
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=No
+E:\毕设\kt\db\kt.mdb=No
+
+[Package|标准安装软件包 1|Distribution]
+Type=multi
+Size=1.44 MB
+Title=KT仓储管理系统
+
+[Package|标准安装软件包 1|IconGroups]
+Group0=kt
+PrivateGroup0=-1
+Parent0=$(Programs)
+
+[Package|标准安装软件包 1|kt]
+Icon1=KT仓储管理系统.exe
+Title1=kt
+StartIn1=$(AppPath)
+Key1=Icon1
+
+[Package|标准安装软件包 1|Package]
+PackageFolder=E:\毕设\kt\新建文件夹
+ProjectFolder=E:\毕设\kt
+ServerSideCab=
+File1=E:\毕设\kt\新建文件夹\setup.exe
+File2=E:\毕设\kt\新建文件夹\Setup.Lst
+File3=E:\毕设\kt\新建文件夹\KT仓储管理1.CAB
+File4=E:\毕设\kt\新建文件夹\KT仓储管理2.CAB
+File5=E:\毕设\kt\新建文件夹\KT仓储管理3.CAB
+File6=E:\毕设\kt\新建文件夹\KT仓储管理4.CAB
+File7=E:\毕设\kt\新建文件夹\KT仓储管理5.CAB
+File8=E:\毕设\kt\新建文件夹\KT仓储管理6.CAB
+File9=E:\毕设\kt\新建文件夹\KT仓储管理7.CAB
+File10=E:\毕设\kt\新建文件夹\KT仓储管理8.CAB
+Handler1=PDWizard.FloppyDplySubWiz
+Handler2=PDWizard.FolderDplySubWiz
+Handler3=PDWizard.WebPostDplySubWiz
+
+
+[Package|标准安装软件包 2|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=E:\毕设\kt\KT仓储管理系统
+
+[Package|标准安装软件包 2|Configure DAO ISAMs]
+Applicable=No
+
+[Package|标准安装软件包 2|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|标准安装软件包 2|Files Found]
+
+[Package|标准安装软件包 2|Files Released]
+
+[Package|标准安装软件包 2|Missing Dependency Information]
+C:\WINDOWS\system32\MSSTDFMT.DLL=
+E:\毕设\kt\注册码生成器.exe=
+
+[Package|标准安装软件包 2|Out-of-Date Dependency Information]
+
+[Package|标准安装软件包 2|Files Added]
+E:\毕设\kt\kt.mdb=
+E:\毕设\kt\注册码生成器.exe=
+
+[Package|标准安装软件包 2|Files Removed]
+
+[Package|标准安装软件包 2|Files In Project]
+E:\毕设\kt\KT仓储管理系统.exe=Yes
+C:\WINDOWS\system32\msvbvm60.dll=Yes
+C:\WINDOWS\system32\oleaut32.dll=Yes
+C:\WINDOWS\system32\olepro32.dll=Yes
+C:\WINDOWS\system32\asycfilt.dll=Yes
+C:\WINDOWS\system32\stdole2.tlb=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\WINDOWS\system32\VB6CHS.DLL=Yes
+C:\WINDOWS\system32\MSADODC.OCX=Yes
+C:\WINDOWS\system32\MSSTDFMT.DLL=Yes
+C:\WINDOWS\system32\ADODCCHS.DLL=Yes
+C:\WINDOWS\system32\MSDATGRD.OCX=Yes
+C:\WINDOWS\system32\DATGDCHS.DLL=Yes
+C:\WINDOWS\system32\MSDATLST.OCX=Yes
+C:\WINDOWS\system32\DATLSCHS.DLL=Yes
+C:\WINDOWS\system32\MSBIND.DLL=Yes
+C:\Program Files\Common Files\Microsoft Shared\DAO\dao360.dll=Yes
+C:\WINDOWS\system32\msjet40.dll=Yes
+C:\WINDOWS\system32\msjter40.dll=Yes
+C:\WINDOWS\system32\msjint40.dll=Yes
+C:\WINDOWS\system32\vbajet32.dll=Yes
+C:\WINDOWS\system32\expsrv.dll=Yes
+C:\WINDOWS\system32\mswstr10.dll=Yes
+C:\WINDOWS\system32\mswdat10.dll=Yes
+C:\WINDOWS\system32\msrd2x40.dll=Yes
+C:\WINDOWS\system32\msrd3x40.dll=Yes
+C:\WINDOWS\system32\msrepl40.dll=Yes
+C:\WINDOWS\system32\msjtes40.dll=Yes
+C:\WINDOWS\system32\VB5DB.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINDOWS\system32\VB6STKIT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+E:\毕设\kt\kt.mdb=Yes
+E:\毕设\kt\注册码生成器.exe=Yes
+
+[Package|标准安装软件包 2|Configure Registry Files]
+Applicable=No
+
+[Package|标准安装软件包 2|Configure Remote Servers]
+Applicable=No
+
+[Package|标准安装软件包 2|Install Locations]
+E:\毕设\kt\KT仓储管理系统.exe=$(AppPath)
+C:\WINDOWS\system32\msvbvm60.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\oleaut32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\olepro32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\asycfilt.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\stdole2.tlb=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\VB6CHS.DLL=$(WinSysPath)
+C:\WINDOWS\system32\MSADODC.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSSTDFMT.DLL=$(WinSysPath)
+C:\WINDOWS\system32\ADODCCHS.DLL=$(WinSysPath)
+C:\WINDOWS\system32\MSDATGRD.OCX=$(WinSysPath)
+C:\WINDOWS\system32\DATGDCHS.DLL=$(WinSysPath)
+C:\WINDOWS\system32\MSDATLST.OCX=$(WinSysPath)
+C:\WINDOWS\system32\DATLSCHS.DLL=$(WinSysPath)
+C:\WINDOWS\system32\MSBIND.DLL=$(WinSysPath)
+C:\Program Files\Common Files\Microsoft Shared\DAO\dao360.dll=$(MSDAOPath)
+C:\WINDOWS\system32\msjet40.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\msjter40.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\msjint40.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\vbajet32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\expsrv.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\mswstr10.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\mswdat10.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\msrd2x40.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\msrd3x40.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\msrepl40.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\msjtes40.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\VB5DB.DLL=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINDOWS\system32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+E:\毕设\kt\kt.mdb=$(AppPath)\db
+E:\毕设\kt\注册码生成器.exe=$(AppPath)
+
+[Package|标准安装软件包 2|Configure Shared Files]
+Applicable=Yes
+E:\毕设\kt\KT仓储管理系统.exe=No
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=No
+E:\毕设\kt\kt.mdb=No
+E:\毕设\kt\注册码生成器.exe=No
+
+[Package|标准安装软件包 2|Distribution]
+Type=single
+Size=
+Title=KT仓储管理系统
+
+[Package|标准安装软件包 2|IconGroups]
+Group0=KT仓储管理系统
+PrivateGroup0=-1
+Parent0=$(Programs)
+
+[Package|标准安装软件包 2|KT仓储管理系统]
+Icon1=KT仓储管理系统.exe
+Title1=KT仓储管理系统
+StartIn1=$(AppPath)
+Key1=Icon1
+
+[Package|标准安装软件包 2|Package]
+PackageFolder=E:\毕设\kt\KT仓储管理系统
+ProjectFolder=E:\毕设\kt
+ServerSideCab=
+File1=E:\毕设\kt\KT仓储管理系统\setup.exe
+File2=E:\毕设\kt\KT仓储管理系统\Setup.Lst
+File3=E:\毕设\kt\KT仓储管理系统\KT仓储管理系统.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
+
+
+[Package|标准安装软件包 3|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=E:\毕设\kt\KT仓储管理系统
+
+[Package|标准安装软件包 3|Configure DAO ISAMs]
+Applicable=No
+
+[Package|标准安装软件包 3|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|标准安装软件包 3|Files Found]
+
+[Package|标准安装软件包 3|Files Released]
+
+[Package|标准安装软件包 3|Missing Dependency Information]
+C:\WINDOWS\system32\MSSTDFMT.DLL=
+E:\毕设\kt\注册码生成器.exe=
+
+[Package|标准安装软件包 3|Out-of-Date Dependency Information]
+
+[Package|标准安装软件包 3|Files Added]
+e:\毕设\kt\注册码生成器.exe=
+e:\毕设\kt\kt.mdb=
+
+[Package|标准安装软件包 3|Files Removed]
+
+[Package|标准安装软件包 3|Files In Project]
+E:\毕设\kt\KT仓储管理系统.exe=Yes
+C:\WINDOWS\system32\msvbvm60.dll=Yes
+C:\WINDOWS\system32\oleaut32.dll=Yes
+C:\WINDOWS\system32\olepro32.dll=Yes
+C:\WINDOWS\system32\asycfilt.dll=Yes
+C:\WINDOWS\system32\stdole2.tlb=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\WINDOWS\system32\VB6CHS.DLL=Yes
+C:\WINDOWS\system32\MSADODC.OCX=Yes
+C:\WINDOWS\system32\MSSTDFMT.DLL=Yes
+C:\WINDOWS\system32\ADODCCHS.DLL=Yes
+C:\WINDOWS\system32\MSDATGRD.OCX=Yes
+C:\WINDOWS\system32\DATGDCHS.DLL=Yes
+C:\WINDOWS\system32\MSDATLST.OCX=Yes
+C:\WINDOWS\system32\DATLSCHS.DLL=Yes
+C:\WINDOWS\system32\MSBIND.DLL=Yes
+C:\Program Files\Common Files\Microsoft Shared\DAO\dao360.dll=Yes
+C:\WINDOWS\system32\msjet40.dll=Yes
+C:\WINDOWS\system32\msjter40.dll=Yes
+C:\WINDOWS\system32\msjint40.dll=Yes
+C:\WINDOWS\system32\vbajet32.dll=Yes
+C:\WINDOWS\system32\expsrv.dll=Yes
+C:\WINDOWS\system32\mswstr10.dll=Yes
+C:\WINDOWS\system32\mswdat10.dll=Yes
+C:\WINDOWS\system32\msrd2x40.dll=Yes
+C:\WINDOWS\system32\msrd3x40.dll=Yes
+C:\WINDOWS\system32\msrepl40.dll=Yes
+C:\WINDOWS\system32\msjtes40.dll=Yes
+C:\WINDOWS\system32\VB5DB.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINDOWS\system32\VB6STKIT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+E:\毕设\kt\注册码生成器.exe=Yes
+E:\毕设\kt\kt.mdb=Yes
+C:\WINDOWS\system32\STDFTCHS.DLL=Yes
+
+[Package|标准安装软件包 3|Configure Registry Files]
+Applicable=No
+
+[Package|标准安装软件包 3|Configure Remote Servers]
+Applicable=No
+
+[Package|标准安装软件包 3|Install Locations]
+E:\毕设\kt\KT仓储管理系统.exe=$(AppPath)
+C:\WINDOWS\system32\msvbvm60.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\oleaut32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\olepro32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\asycfilt.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\stdole2.tlb=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\VB6CHS.DLL=$(WinSysPath)
+C:\WINDOWS\system32\MSADODC.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSSTDFMT.DLL=$(WinSysPath)
+C:\WINDOWS\system32\ADODCCHS.DLL=$(WinSysPath)
+C:\WINDOWS\system32\MSDATGRD.OCX=$(WinSysPath)
+C:\WINDOWS\system32\DATGDCHS.DLL=$(WinSysPath)
+C:\WINDOWS\system32\MSDATLST.OCX=$(WinSysPath)
+C:\WINDOWS\system32\DATLSCHS.DLL=$(WinSysPath)
+C:\WINDOWS\system32\MSBIND.DLL=$(WinSysPath)
+C:\Program Files\Common Files\Microsoft Shared\DAO\dao360.dll=$(MSDAOPath)
+C:\WINDOWS\system32\msjet40.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\msjter40.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\msjint40.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\vbajet32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\expsrv.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\mswstr10.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\mswdat10.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\msrd2x40.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\msrd3x40.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\msrepl40.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\msjtes40.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\VB5DB.DLL=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINDOWS\system32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+E:\毕设\kt\注册码生成器.exe=$(AppPath)
+E:\毕设\kt\kt.mdb=$(AppPath)\db
+C:\WINDOWS\system32\STDFTCHS.DLL=$(WinSysPath)
+
+[Package|标准安装软件包 3|Configure Shared Files]
+Applicable=Yes
+E:\毕设\kt\KT仓储管理系统.exe=No
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=No
+E:\毕设\kt\注册码生成器.exe=No
+E:\毕设\kt\kt.mdb=No
+
+[Package|标准安装软件包 3|Distribution]
+Type=single
+Size=
+Title=KT仓储管理系统
+
+[Package|标准安装软件包 3|Package]
+PackageFolder=E:\毕设\kt\KT仓储管理系统
+ProjectFolder=E:\毕设\kt
+ServerSideCab=
+File1=E:\毕设\kt\KT仓储管理系统\setup.exe
+File2=E:\毕设\kt\KT仓储管理系统\Setup.Lst
+File3=E:\毕设\kt\KT仓储管理系统\KT仓储管理系统.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
+
+[Package|标准安装软件包 3|IconGroups]
+Group0=KT仓储管理系统
+PrivateGroup0=-1
+Parent0=$(Programs)
+
+[Package|标准安装软件包 3|KT仓储管理系统]
+Icon1=KT仓储管理系统.exe
+Title1=KT仓储管理系统
+StartIn1=$(AppPath)
+Key1=Icon1
+Icon2=注册码生成器.exe
+Title2=注册机
+StartIn2=$(AppPath)
+Key2=Icon3
